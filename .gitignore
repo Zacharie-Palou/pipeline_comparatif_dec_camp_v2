@@ -1,0 +1,18 @@
+# Données sensibles
+.env
+
+# Données brutes
+data/outputs/
+data/outputs_demo/
+data/temp/logs/
+logs/
+
+# Tests
+test_extract.py
+
+# Python
+__pycache__/
+*.pyc
+
+# Fichiers système
+Thumbs.db

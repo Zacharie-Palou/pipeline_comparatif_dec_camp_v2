@@ -1,0 +1,4 @@
+date_donnee_debut,filiere,type_declaration,code,acteur_declarant,masse,quantite
+2023-01-01,FILIERE1,rrr,CODE_RRR1,DECLARANT1,950.0,78
+2023-01-01,FILIERE2,rrr,CODE_RRR2,DECLARANT3,1200.0,98
+2023-01-01,FILIERE3,rrr,CODE_RRR1,DECLARANT5,380.0,34
